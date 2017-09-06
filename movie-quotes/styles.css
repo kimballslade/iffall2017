@@ -1,0 +1,23 @@
+	
+
+
+	html {font-family:sans-serif;
+		background-color:#ffd344;}
+	p{color:black;}
+	h1{color: grey;}
+	h2{color:orangered;
+		font-size:60px;}
+	strong{color: #4e5f6d;}
+
+
+	#tone {color:#758ca0;}
+	#movie-title {color:white;
+				font-size: 73px;}
+	#movie-subtitle{font-family:serif;
+					font-size: 24px;}
+	#direction{color:#829eb5;}
+
+
+
+	.nav-link{}
+	.script {color:black;}
