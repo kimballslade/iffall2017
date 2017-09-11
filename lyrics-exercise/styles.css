@@ -1,0 +1,22 @@
+html{
+	font-family:sans-serif;
+	background-color:#839bc1;
+	padding-left: 2cm
+}
+
+p{
+}
+
+h1{
+	color:white;
+	font-size:70px;
+}
+
+h2{
+	color:white;
+	font-size:30px;
+}
+
+#backup {
+	color:#a6bad8;
+}
