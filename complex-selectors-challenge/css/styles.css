@@ -1,0 +1,41 @@
+
+header{
+	margin-bottom:3rem;
+}
+
+.content{
+	line-height:1.6;
+}
+
+.see-all{
+	font-size: 0.8em;
+	text-transform: uppercase;
+}
+
+h1{
+	font-size: 2.5rem;
+}
+h2{
+	font-size:1rem;
+	text-transform: uppercase;
+}
+
+.shows{
+	border:top; 
+	border-width:1px;
+}
+.shows :first-child{
+	font-weight:lighter;
+}
+
+.cast .src{
+	width:100%;
+}
+.cast {
+	width:25%;
+}
+
+.selected :link{
+	font-weight:bold;
+	color:black;
+}
