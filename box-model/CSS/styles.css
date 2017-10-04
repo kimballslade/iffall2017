@@ -1,0 +1,162 @@
+
+body{
+	font-family: 'Archivo Narrow', sans-serif;
+}
+*, *:before, *:after {
+	box-sizing:border-box;
+}
+
+h1{
+	font-size:80px;
+	margin-bottom:0px;
+	margin-top:5px;
+	margin-left:1px;
+	color:#606d82;
+}
+h3{
+	font-size:30px;
+	margin-top:2px;
+	color:#7f848e;
+}
+h2{
+	font-size:40px;
+	text-align:center;
+	color:#606d82;
+}
+
+p{
+	text-align:left;
+	margin-bottom:-2px;
+}
+
+section{
+	width:100%;
+	display:block;
+	text-align:center;
+	padding-top:8px;
+}
+
+.intro{
+	background-color: oldlace;
+	display: block;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 174px;
+    height: 482px;
+}
+
+section.firstsection{
+	height:646px;
+	background-color: #b2ccf7;
+}
+.firstsection .textcontainer{
+	color:#778399;
+	margin:auto;
+	text-align:left;
+	display:block;
+	width: 960px;
+    height: 469px;
+    font-size: 18px;
+    line-height:120%;
+}
+.dog1{
+	display:block;
+	width:400px;
+	height:300px;
+	float:right;
+	background-image: url("images/dog1.jpg");
+	margin-left: 25px;
+	margin-bottom:20px;
+}
+
+
+
+
+.secondsection{
+	height:679px;
+	background-color: #dee8f9;
+}
+.container{
+	margin:auto;
+	width:960px;
+	height:500px;
+}
+.columnleft{
+	width:50%;
+	float:left;
+
+}
+.columnright{
+	float:right;
+	width:50%;
+}
+.grid{
+	    margin-right: 49px;
+	    margin-bottom: 21px;
+}
+.columnphoto{
+	background-image: url("images/smalldog.jpg")
+	margin-right: 9px;
+	width:200px;
+	height:150px;
+	display:inline-block;
+}
+.phototitle{
+	color:#606d82;
+	font-size: 19px;
+	margin-top: 2px;
+	margin-bottom: 8px;
+	letter-spacing: .07em;
+}
+.columntext{
+	line-height: 120%;
+	vertical-align: top;
+	display: inline-block;
+	width: 50%;
+    font-size: 18px;
+    text-align: left;
+    color:#7f848e;
+}
+
+
+
+.thirdsection{
+	height:411px;
+	background-color:#b2ccf7;
+}
+.text{
+	color:#7f848e;
+	margin:auto;
+	text-align: center;
+	font-size: 26px;
+	width:695px;
+	height:150px;
+	letter-spacing: .013em;
+    line-height: 120%;
+}
+
+
+
+.fourthsection{
+	height:99px;
+	background-color:#dee8f9;
+}
+.bottomstuff{
+	margin:auto;
+	margin-top: 31px;
+	width:970px;
+	height:35px;
+	padding-left: 4px;
+	letter-spacing: -0.01em;
+}
+.copyright{
+	float:left;
+	font-size:19px;
+	color:#7f848e;
+	
+}
+.icons{
+
+}
+
+
