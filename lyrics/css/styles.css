@@ -1,12 +1,129 @@
 
 body {
-	font-family: sans-serif;
+	font-family: 'PT Sans Narrow', sans-serif;
 }
 
 div {
 	display:block;
-	text-align:left;
-	margin:auto;
-	margin-left:200px;
-	margin-right:200px;
 }
+
+
+.title {
+	font-size: 120px;
+	font-weight: bold;
+	height:330px;
+	text-align: center;
+	margin:auto;
+	padding-top:250px;
+	background-color:white; 
+	color:#e2d7d3;
+}
+.title:before{
+	content:"TOO GOOD AT GOODBYES";
+}
+.title:hover{
+	padding-top: 250px;
+	opacity: 0.5;
+	color:#a4a6a8;
+	background-image:url("../images/sam.png");
+}
+.title:hover:before{
+	content:"sam smith";
+}
+
+
+.song {
+	
+}
+
+.lyrics {
+	font-size: 20px;
+	text-align:center;
+	padding-top: 40px;
+	letter-spacing: 0.032em;
+
+}
+
+
+
+.chorus{
+	padding-top: 40px;
+	font-size: 50px;
+	line-height: 100%;
+	text-align:center;
+	font-weight:bold;
+	font-style:oblique;
+}
+
+
+
+.line {
+	padding-top: 5px;
+	color:#e2d7d3;
+}
+.line:hover {
+	line-height: 115%;
+	font-size:65px;
+	color:#d6c1ba;
+	letter-spacing: 0.03em;
+}
+
+
+
+.backup {
+	padding-top: 30px;
+}
+
+
+.noway {
+	font-weight: bold;
+	padding-top:10px;
+	font-size: 26px;
+	letter-spacing: 0.027em;
+	text-align:center;
+}
+.noway:before {
+	content:"No way that you'll see me cry";
+}
+.noway:hover {
+	font-size:20px;
+	color:#6b7077;
+}
+.noway:hover:before {
+	content:"(no way that you'll see me cry)";
+
+}
+
+
+.waytoo {
+	font-weight: bold;
+	padding-top:10px;
+	font-size: 26px;
+	letter-spacing: 0.027em;
+	text-align: center;
+}
+.waytoo:before {
+	content:"I'm way too good at goodbyes";
+}
+.waytoo:hover {
+	font-size:20px;
+	color:#6b7077;
+}
+.waytoo:hover:before {
+	content:"(I'm way too good at goodbyes)";
+}
+
+
+
+.topspace {
+	height:50px;
+}
+.bottomspace {
+	height:200px;
+}
+
+
+
+
+
+
