@@ -1,0 +1,38 @@
+.float {
+	float:right;
+}
+
+
+.lowerright {
+	position:absolute;
+	margin-left: 630px;
+	margin-top: 63px;
+}
+
+
+.green {
+	background-color: green;
+	position:fixed;
+	top: 0px;
+	right:0px;
+
+}
+
+
+.red {
+	background-color: red;
+	position:absolute;
+	z-index:1;
+	margin-left: 304px;
+
+}
+
+
+.black {
+	background-color: black;
+	position:absolute;
+	margin-left: 314px;
+	margin-top: 10px;
+
+}
+
