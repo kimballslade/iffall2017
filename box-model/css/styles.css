@@ -37,7 +37,8 @@ section{
 }
 
 .intro{
-	background-color: oldlace;
+	background-image: url("../images/dog1.jpg");
+	background-size:100%;
 	display: block;
     text-align: center;
     padding-top: 150px;
@@ -143,20 +144,24 @@ section.firstsection{
 }
 .bottomstuff{
 	margin:auto;
-	margin-top: 31px;
+	margin-top: 25px;
 	width:970px;
 	height:35px;
 	padding-left: 4px;
 	letter-spacing: -0.01em;
 }
 .copyright{
+	padding-top: 6px;
 	float:left;
 	font-size:19px;
 	color:#7f848e;
 	
 }
 .icons{
-
+	letter-spacing: .18em;
+	float:right;
+	font-size:31px;
+	color:#7f848e;
 }
 
 
