@@ -6,6 +6,7 @@ body {
 
 div {
 	display:block;
+	margin:auto;
 }
 
 *, *:before, *:after {
