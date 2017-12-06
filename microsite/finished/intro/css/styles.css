@@ -1,0 +1,118 @@
+
+body {
+	font-family: 'Barlow Condensed', sans-serif;
+	background-color: white;
+}
+
+div {
+	display:block;
+	margin:auto;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+a {
+	display:block
+}
+
+.fade {
+	opacity:0.3;
+	transition-duration: 1s;
+	transition-property: opacity;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+}
+.fade:hover {
+	opacity: 0.9;
+
+}
+
+
+.screen {
+	height:800px;
+	margin:auto;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+.dre {
+	opacity:0.6;
+    background-size: 102%;
+    background-image: url("../images/dre.png");
+    background-repeat: no-repeat;
+    height:600px;
+    width:800px;
+    position: fixed;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+
+.career {
+	height: 164%;
+	width: 400px;
+	background-image: url("../images/career.png");
+	background-repeat: no-repeat;
+	background-size: 88%;
+	position: fixed;
+    margin-left: 803px;
+    margin-top: 213px;
+}
+.career:hover {
+	background-size: 93%;
+}
+
+.collab {
+	height: 200px;
+	width: 400px;
+	background-image: url("../images/collab.png");
+	background-repeat: no-repeat;
+	background-size: 82%;
+	position: fixed;
+    margin-top: 362px;
+    margin-left: 127px;
+}
+.collab:hover {
+	background-size:87%;
+}
+
+.awards {
+	height: 150px;
+	width: 400px;
+	background-image: url("../images/awards.png");
+	background-repeat: no-repeat;
+	background-size: 77%;
+	position: fixed;
+    margin-left: 110px;
+    margin-top: 70px;
+}
+.awards:hover {
+	background-size: 82%;
+}
+
+.legacy {
+	height: 200px;
+	width: 400px;
+	background-image: url("../images/legacy.png");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	position: fixed;
+    margin-left: 600px;
+}
+.legacy:hover{
+	background-size: 85%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
